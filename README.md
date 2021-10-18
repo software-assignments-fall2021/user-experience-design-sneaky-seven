@@ -6,3 +6,7 @@ Replace the contents of this file with the completed assignments, as described i
 
 - [app map and wireframe instructions](./instructions-app-map-wireframe.md).
 - [prototype instructions](./instructions-prototype.md)
+
+## Prototype
+
+Prototype is now live: https://jenniferzeng157183.invisionapp.com/console/share/HQ34WVKQVW
