@@ -1,6 +1,6 @@
 ## Sitemap 
 
-![Sitemap](./ux-design/sitemap.drawio.png)
+![Sitemap](./ux-design/sitemap.png)
 
 ## Prototype
 
