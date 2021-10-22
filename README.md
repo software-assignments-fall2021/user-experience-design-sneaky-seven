@@ -10,7 +10,7 @@ Prototype is now live: https://jenniferzeng157183.invisionapp.com/console/share/
 
 Wireframe: https://app.diagrams.net/#G10-UZorXQMPOrRdCcepTYEaD2NRb1sGJm
 
-More wireframes are attached in ./ux-design/prototype
+<b>More wireframes are attached in ./ux-design/prototype</b>
 
 ### Homepage
 Homepage contains several cards: a list of accounts, one type of statistics, a list of records, and etc. The homepage should also include important call-to-actions, such as “Add banks”. 
